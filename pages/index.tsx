@@ -190,10 +190,10 @@ export default function IndexPage() {
                   fill-rule="evenodd"
                 />
               </svg>
-              <p className="absolute mt-16 text-center text-white">
+              <div className="absolute pt-16 text-center text-white">
                 This is a great way to be water wise and save time while you’re
                 at it.
-              </p>
+              </div>
             </div>
           </div>
           <h2 className="mt-8 text-2xl font-semibold">For Orders contact:</h2>
