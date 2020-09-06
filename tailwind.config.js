@@ -6,10 +6,29 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "sun-yellow": "",
-        "water-blue": "",
-        "plant-green": "",
+        "sun-yellow": "#FEE26A",
+        "water-blue": "#70C1D4",
+        "plant-green": "#CACE3B",
+        charcoal: "#3F3F3F",
       },
+    },
+    fontFamily: {
+      futura: [
+        "Futura PT",
+        "system-ui",
+        "-apple-system",
+        "BlinkMacSystemFont",
+        '"Segoe UI"',
+        "Roboto",
+        '"Helvetica Neue"',
+        "Arial",
+        '"Noto Sans"',
+        "sans-serif",
+        '"Apple Color Emoji"',
+        '"Segoe UI Emoji"',
+        '"Segoe UI Symbol"',
+        '"Noto Color Emoji"',
+      ],
     },
   },
   variants: {},
